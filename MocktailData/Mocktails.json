@@ -1,0 +1,41 @@
+[
+    {
+        "weather": "cold",
+        "name": "Hot chocolate",
+        "ingredients": [
+            "1/4 cup granulated sugar",
+            "1/4 cup unsweetened cocoa powder",
+            "4 cups of milk",
+            "1/2 cup of semisweet chocolate",
+            "1/2 tsp vanilla extract",
+            "whipped cream"
+        ],
+        "method": "In a medium saucepan, whisk together the sugar and cocoa powder. Add milk, chocolate chips, and vanilla and whisk together.  Place over medium heat and bring it to a light boil while stirring constantly. Be sure the chocolate is fully melted and incorporated.  Set aside to cool to your desired temperature and serve with whipped cream."
+    },
+    {
+        "weather": "hot",
+        "name": "Quick Shirley Temple",
+        "ingredients": [
+            "1oz of grenadine",
+            "1 cup of original citrus fresca",
+            "cubed ice",
+            "fresh orange sliced in quarters"
+        ],
+        "method": "Pour Original Citrus Fresca into a tall glass with plenty of ice. Then top with Grenadine, stir gently and garnish with orange quarters."
+    },
+    {
+        "weather": "warm",
+        "name": "Sparkling Raspberry Lemonade Virgin Mojito",
+        "ingredients": [
+            "15 mint leaves",
+            "1oz of simple syrup",
+            "2oz freshly squeezed lime juice",
+            "8oz of Dasani Sparkling Raspberry Lemonade",
+            "cubed ice",
+            "raspberries",
+            "mint",
+            "lime wedges"
+        ],
+        "method": "Muddle together your simple syrup  mint leaves for a few minutes.  Add in the sparkling raspberry lemonade, mix well.  Add ice to a glass and pour in your mocktail mix.  Garnish with a few mint leaves and a slice of lime."
+    }
+]
